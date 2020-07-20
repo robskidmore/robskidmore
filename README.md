@@ -1,4 +1,8 @@
-### Hi there 👋
+# Oh hey, I'm Rob.
+
+I'm a Software Engineer at @Growmies.
+
+I do JS.
 
 <!--
 **robskidmore/robskidmore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
