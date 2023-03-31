@@ -1,4 +1,4 @@
-# Oh hey, I'm Rob.
+# Oh hey, I'm Rob Skidmore.
 
 I'm a Software Engineer at @CleanClaims.
 
