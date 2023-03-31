@@ -1,20 +1,12 @@
-# Oh hey, I'm Rob Skidmore.
-
+Hi I'm Rob Skidmore. This package is all of my public info
+=========
 I'm a Software Engineer at @CleanClaims.
 
-I also write Science Fiction. You can find my writing at [RobertASkidmore.com](https://robertaskidmore.com)
+I also write Science Ficiton at [RobertASkidmore.com](https://robertaskidmore.com)
+[Twitter](https://twitter.com/RobertASkidmore)
+[Instagram](https://www.instagram.com/robertaskidmore)
+[LinkedIn](https://www.linkedin.com/in/robertaskidmore)
+[Goodreads](https://www.goodreads.com/robertaskidmore)
+[YouTube](https://www.youtube.com/@RobertASkidmore)
 
-<!--
-**robskidmore/robskidmore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
