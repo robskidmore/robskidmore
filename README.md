@@ -2,7 +2,7 @@
 
 I'm a Software Engineer at @CleanClaims.
 
-I also write Science Fiction. You can find my writing at [https://robertaskidmore.com](RobertASkidmore.com)
+I also write Science Fiction. You can find my writing at [RobertASkidmore.com](https://robertaskidmore.com)
 
 <!--
 **robskidmore/robskidmore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
